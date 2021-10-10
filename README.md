@@ -1,2 +1,2 @@
 # BTC_prediction
-Discovering timeseries forecasts using SARIMAX models and BTC dataset
+Discovering time series forecasting using SARIMAX models and BTC dataset
